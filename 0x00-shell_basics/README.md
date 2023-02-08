@@ -7,4 +7,4 @@ ls -man - long list files digits only
 mkdir - making directory
 mv - moving files
 rm - deleting files
-
+rmdir - deleteing directory
