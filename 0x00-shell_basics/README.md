@@ -9,3 +9,4 @@ mv - moving files
 rm - deleting files
 rmdir - deleteing directory
 cd - - 'move back to previous directory"
+ls -la . .. -long list hidden files even ones beginning with period character
