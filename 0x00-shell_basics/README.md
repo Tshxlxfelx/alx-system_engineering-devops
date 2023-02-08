@@ -3,5 +3,5 @@ ls- list files in directory
 cd~ - change to home working directory
 ls -l - long list files with their information
 ls -la - long list files with their information including hidden files
-ls -n - long list files digits only
+ls -ld - long list files digits only
 
