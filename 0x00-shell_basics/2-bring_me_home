@@ -1,2 +1,2 @@
 #!/bin/bash
-change to home working directory
+cd ~
