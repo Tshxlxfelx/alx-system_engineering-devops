@@ -6,4 +6,5 @@ ls -la - long list files with their information including hidden files
 ls -man - long list files digits only
 mkdir - making directory
 mv - moving files
+rm - deleting files
 
