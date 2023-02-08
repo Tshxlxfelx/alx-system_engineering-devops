@@ -8,4 +8,4 @@ mkdir - making directory
 mv - moving files
 rm - deleting files
 rmdir - deleteing directory
-cd .. - 'move back to previous directory"
+cd - - 'move back to previous directory"
