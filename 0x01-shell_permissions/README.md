@@ -8,3 +8,4 @@ chmod ug+x, o+r - execute permissions to owner of the group, and read permission
 chmod ugo+x - permissions for everyone
 chmod 007 - permissions forother users only
 chmod 753 -sets mode of the file to info
+chmod --reference= - mirror other directory
