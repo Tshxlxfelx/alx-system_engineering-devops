@@ -11,3 +11,4 @@ chmod 753 -sets mode of the file to info
 chmod --reference= - mirror other directory
 chmod -R +1111 */ - execute permissions to all subdirectories of the current directory for  users, groups and owner
 mkdir -m 751 my_dir - directory permissions
+chgrp - change group
