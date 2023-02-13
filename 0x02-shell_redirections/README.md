@@ -7,4 +7,5 @@ head - display the first 10 lines
 head -3 iacta | tail -1
 echo - \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 ls -la > ls_cwd_content - writes or overwrites an existing file
-tail -1 iacta >> iacta
+tail -1 iacta >> iacta - duplicates last file to a direcoctory
+find  . -type f -name "*.js" -delete - deletes reqular files
