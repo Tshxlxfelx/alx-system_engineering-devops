@@ -5,3 +5,4 @@ cat - display content of two files
 tail - display the last 10 lines
 head - display the first 10 lines
 head -3 iacta | tail -1
+echo - \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
