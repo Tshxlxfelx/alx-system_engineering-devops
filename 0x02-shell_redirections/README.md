@@ -12,4 +12,5 @@ find  . -type f -name "*.js" -delete - deletes reqular files
 find . -type d ! -path . | wc -z - counts directories and sub directories in the current folder
 ls -t . | head - displays 10 new files in directory
 sort | uniq -u - takes list of words as input and prints only words that appear only once
-egrep "root" /etc/passwd
+egrep "root" /etc/passwd - display lines containing the pattern "root" from the files /etc/passwd
+egrep -C "bin" /etc/passwd - display the number of lines that contain the pattern "bin" in the file /etc/passwd
