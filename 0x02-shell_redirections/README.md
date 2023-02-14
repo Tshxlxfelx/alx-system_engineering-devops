@@ -21,3 +21,4 @@ megrep ^[[:alpha:]]
 tr 'Ac' 'Ze' - replace specific characters
 tr -d cC - removes specified  characters
 rev - reverse
+cut -d ':' -f 1,6 /etc/passwd | sort - dispalys all users and their home directories, sorted by users
