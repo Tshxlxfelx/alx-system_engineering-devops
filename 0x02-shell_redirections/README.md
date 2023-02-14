@@ -20,3 +20,4 @@ megrep ^[[:alpha:]]
 /etc/ssh/sshd_confiq - diplay all lines of the direcotry starting with a letter
 tr 'Ac' 'Ze' - replace specific characters
 tr -d cC - removes specified  characters
+rev - reverse
