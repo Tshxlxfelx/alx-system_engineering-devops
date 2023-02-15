@@ -8,3 +8,4 @@ BEST="School" - create local variable
 exho $((128+ $TRUEKNOWLEDGE)) - prints number plus variable stored
 echo $(($POWER/$DIVIDE)) - divided variables followed by a line
 echo $(($BREATH**$LOVE)) - variable to the power variable followed by a new line
+echo $((2#$BINARY)) - converts njumber from base 2 to 10
