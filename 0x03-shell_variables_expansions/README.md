@@ -6,3 +6,4 @@ printenv - list global variables
 set - list local variables
 BEST="School" - create local variable
 exho $((128+ $TRUEKNOWLEDGE)) - prints number plus variable stored
+echo $(($POWER/$DIVIDE)) - divided variables followed by a line
