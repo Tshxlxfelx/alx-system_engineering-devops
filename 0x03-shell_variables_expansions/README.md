@@ -5,3 +5,4 @@ IFS=':' read -ra dirs <<< $PATH
 printenv - list global variables
 set - list local variables
 BEST="School" - create local variable
+exho $((128+ $TRUEKNOWLEDGE)) - prints number plus variable stored
