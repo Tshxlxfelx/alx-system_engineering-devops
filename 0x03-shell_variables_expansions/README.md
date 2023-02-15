@@ -4,3 +4,4 @@ export PATH=$PATH:/action - making a certain directory the last directory shell 
 IFS=':' read -ra dirs <<< $PATH
 printenv - list global variables
 set - list local variables
+BEST="School" - create local variable
